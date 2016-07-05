@@ -1,7 +1,3 @@
-# Working Directory
-
-setwd('~/Documents/CoursR/exploratory-data-analysis/exploratory-data-analysis')
-
 
 # load data
 source('DownloadData.R')
